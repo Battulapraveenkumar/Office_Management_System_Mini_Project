@@ -29,6 +29,4 @@ Functions of Employee includes:
     Reporting complaints to the adminstrators
     Edit profile
     
-Here is the slide of my final year presentation: http://www.slideshare.net/sazanrjb/office-management-system-54479490
 
-Need full documentation? (https://www.scribd.com/doc/296992403/Office-Management-System-Sajan-Rajbhandari)
